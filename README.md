@@ -45,7 +45,7 @@ This application supports both **basic arithmetic** and **scientific operations*
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/Sahusaksham333/1-scientific-calculator
 
 # Move into the project directory
 cd 1-scientific-calculator
